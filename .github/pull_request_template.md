@@ -1,7 +1,4 @@
 ## Describe your changes
-- [ ] I have already formatted the README.md file using built in VS Code formatter, also i have performed pull_request_template.md file with it's content
-- Another one test plain text
-
 
 ## Issue ticket number and link
 
