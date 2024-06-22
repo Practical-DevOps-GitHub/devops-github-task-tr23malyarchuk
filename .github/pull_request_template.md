@@ -1,5 +1,5 @@
 ## Describe your changes
-- [ ] New files created
+
 ## Issue ticket number and link
 
 ## Checklist before requesting a review
