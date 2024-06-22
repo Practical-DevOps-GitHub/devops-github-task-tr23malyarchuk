@@ -83,7 +83,7 @@ class ScriptTest < Test::Unit::TestCase
 
   def test_without_approval_main
     actual = @obj.rules_required_pull_request_reviews('main').nil? || @obj.rules_required_pull_request_reviews('main')["required_approving_review_count"]
-    expected = 1
+    expected = 0
     assert_equal(expected, actual, 'We shouldn\'t have any approvals before merge to main branch')
   end
 
